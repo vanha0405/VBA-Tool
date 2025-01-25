@@ -4,7 +4,6 @@
 
                Sub CopyDuLieu()
                
-               
                Dim wbOutput, wbInput As Workbook
                Dim selectFiles As Variant
                Dim iFileNum, isSheetnum As Integer
